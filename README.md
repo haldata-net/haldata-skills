@@ -9,9 +9,11 @@ HALDATA が公開する Claude 用スキル集。
 
 | スキル | レシピ | 使うMCP | 所要 |
 |---|---|---|---|
-| [fix-high-bounce-product-pages](skills/fix-high-bounce-product-pages/) | [売れ筋なのに離脱される商品ページを直す](https://haldata.net/mcp-dir/#rcp=0) | GA4 → Clarity → TrendViewer → Shopify | 約15分 |
+| [fix-high-bounce-product-pages](skills/fix-high-bounce-product-pages/) | [売れ筋なのに離脱される商品ページを直す](https://haldata.net/mcp-dir/#rcp=0) | GA4 → Clarity → TrendViewer → Shopify | 15分以内 |
+| [ad-copy-from-review-stats](skills/ad-copy-from-review-stats/) | [広告の訴求軸をレビュー統計で決める](https://haldata.net/mcp-dir/#rcp=1) | Google広告 → TrendViewer | 10分以内 |
+| [new-category-research](skills/new-category-research/) | [新規参入カテゴリの下調べを1時間で終える](https://haldata.net/mcp-dir/#rcp=2) | Ahrefs → Google Trends → Keepa → TrendViewer | 20分以内 |
 
-順次追加します（次：広告の訴求軸をレビュー統計で決める／新規参入カテゴリの下調べ）。
+順次追加します（次：検索流入ページを直す／採算の合わない広告を止める）。
 
 ## 導入手順
 
